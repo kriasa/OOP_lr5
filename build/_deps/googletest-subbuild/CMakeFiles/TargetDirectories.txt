@@ -1,0 +1,3 @@
+/mnt/f/2_kurs/1_sem/oop/5_laba/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
+/mnt/f/2_kurs/1_sem/oop/5_laba/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
+/mnt/f/2_kurs/1_sem/oop/5_laba/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/5_laba.dir/main.cpp.o -o 5_laba 
